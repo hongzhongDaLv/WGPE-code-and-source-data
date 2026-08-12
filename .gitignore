@@ -1,0 +1,8 @@
+config/config.yml
+output/
+derived_data/
+temporary/
+__pycache__/
+*.pyc
+.Rhistory
+.Rproj.user/

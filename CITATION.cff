@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or Source Data, please cite this release and the associated manuscript."
+title: "WGPE code and Source Data"
+type: software
+version: "v1.0.0"
+date-released: "2026-08-11"
+authors:
+  - family-names: "Sun"
+    given-names: "Ke"
+abstract: "Code and compact Source Data supporting the manuscript 'Global moistening accompanies an upward shift in the atmospheric water-vapour centroid'."
+license: MIT
+preferred-citation:
+  type: article
+  title: "Global moistening accompanies an upward shift in the atmospheric water-vapour centroid"
+  authors:
+    - family-names: "Sun"
+      given-names: "Ke"
+  notes: "Journal and DOI fields will be added after acceptance/deposition; no DOI is assigned in this local release."

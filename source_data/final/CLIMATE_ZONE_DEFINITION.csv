@@ -1,0 +1,6 @@
+region,definition,south_boundary_deg,north_boundary_deg,n_grid_global_1deg,total_grid,weighting,domain
+S high latitude,lat < -66.5°,-90.0,-66.5,8640,65160,cos(latitude),atmospheric global 1-degree grid including land and ocean
+S temperate,-66.5° <= lat < -23.5°,-66.5,-23.5,15480,65160,cos(latitude),atmospheric global 1-degree grid including land and ocean
+Tropics,-23.5° <= lat <= 23.5°,-23.5,23.5,16920,65160,cos(latitude),atmospheric global 1-degree grid including land and ocean
+N temperate,23.5° < lat <= 66.5°,23.5,66.5,15480,65160,cos(latitude),atmospheric global 1-degree grid including land and ocean
+N high latitude,lat > 66.5°,66.5,90.0,8640,65160,cos(latitude),atmospheric global 1-degree grid including land and ocean

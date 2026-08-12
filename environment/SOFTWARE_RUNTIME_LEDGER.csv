@@ -1,0 +1,6 @@
+"component","version","provenance"
+"R","R version 4.5.2 (2025-10-31 ucrt)","current archival runtime and analysis QA files"
+"Python","3.12.13 (main, Mar  3 2026, 15:01:35) [MSC v.1944 64 bit (AMD64)]","output_TOP100_revision/logs/session_info.txt"
+"Node.js","v24.14.0","bundled archival runtime"
+"C++ compiler","G__~1.EXE (GCC) 14.3.0","Rtools45 compiler used by Rcpp"
+"Operating system","Windows 10 x64 build 26200","current archival workstation"

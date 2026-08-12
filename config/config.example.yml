@@ -1,0 +1,37 @@
+# Copy this file to config.yml and replace placeholder paths.
+# project_root must be a dedicated working directory for a full raw-data rerun.
+project_root: <REQUIRED_WORKING_DIRECTORY>
+raw_data_root: <REQUIRED_EXTERNAL_PATH>
+derived_data_root: derived_data
+output_root: output
+temporary_root: temporary
+era5_root: <REQUIRED_EXTERNAL_PATH>
+era5_land_root: <REQUIRED_EXTERNAL_PATH>
+jra55_root: <REQUIRED_EXTERNAL_PATH>
+rharm_root: <REQUIRED_EXTERNAL_PATH>
+gosif_gpp_root: <REQUIRED_EXTERNAL_PATH>
+gimms_lai_root: <REQUIRED_EXTERNAL_PATH>
+mcd12c1_root: <REQUIRED_EXTERNAL_PATH>
+noaa_indices_root: <REQUIRED_EXTERNAL_PATH>
+co2_root: <REQUIRED_EXTERNAL_PATH>
+# Exact files used by the registered pipeline. These are validated before execution.
+era5_pressure_level_dir: <REQUIRED_EXTERNAL_PATH>
+era5_surface_pressure_file: <REQUIRED_EXTERNAL_FILE>
+era5_surface_geopotential_file: <REQUIRED_EXTERNAL_FILE>
+era5_dewpoint_file: <REQUIRED_EXTERNAL_FILE>
+era5_single_levels_file: <REQUIRED_EXTERNAL_FILE>
+era5_land_soil_water_file: <REQUIRED_EXTERNAL_FILE>
+gpp_array_file: <REQUIRED_EXTERNAL_FILE>
+gpp_panel_file: <REQUIRED_EXTERNAL_FILE>
+lai_panel_file: <REQUIRED_EXTERNAL_FILE>
+landcover_summary_file: <REQUIRED_EXTERNAL_FILE>
+co2_file: <REQUIRED_EXTERNAL_FILE>
+oni_file: <REQUIRED_EXTERNAL_FILE>
+nino34_file: <REQUIRED_EXTERNAL_FILE>
+oni_winter_inventory_file: <REQUIRED_EXTERNAL_FILE>
+python_executable: python
+rscript_executable: Rscript
+node_executable: node
+python_site_packages: <OPTIONAL_PATH>
+r_library: <OPTIONAL_PATH>
+rtools_root: <OPTIONAL_PATH>

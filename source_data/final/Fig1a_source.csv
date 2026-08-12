@@ -1,0 +1,3 @@
+panel_id,result_id,metric,target,predictor,model,domain,region,latitude_bin,estimate,lower95,upper95,p,q,significance_class,n_grid,source_sheet,source_file
+Fig1a,TOP100R000001,z_trend_m_yr,,,,all-valid common TOP100 grid,Global,,0.819478444957555,,,,,,65160.0,,RESULT_REGISTRY.csv
+Fig1a,TOP100R000004,mean_z_m,,,,all-valid common TOP100 grid,Global,,2163.95177621241,,,,,,65160.0,,RESULT_REGISTRY.csv

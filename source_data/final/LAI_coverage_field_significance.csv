@@ -1,0 +1,7 @@
+Threshold,threshold_n,Predictor,n_grid,BH_positive_area_pct,BH_negative_area_pct,BY_positive_area_pct,BY_negative_area_pct,circular_shift_p_positive,circular_shift_p_negative,year_block_status,n_nonzero_common_circular_shifts,finite_permutation_p_minimum
+n >= 36,36,W-GPE,8300,2.13812287015957,0.192565232494465,0.429018393264511,0,0.0039682539682539,0.0039682539682539,not_evaluated_no_locked_grid_by_permutation_source,251,0.0039682539682539
+n >= 36,36,<z>,8300,0.0,0.0,0.0,0,1.0,1.0,not_evaluated_no_locked_grid_by_permutation_source,251,0.0039682539682539
+n >= 120,120,W-GPE,6499,2.84601863910922,0.253309623059117,0.748004097506311,0,0.0039682539682539,0.0079365079365079,not_evaluated_no_locked_grid_by_permutation_source,251,0.0039682539682539
+n >= 120,120,<z>,6499,0.0,0.0,0.0,0,1.0,1.0,not_evaluated_no_locked_grid_by_permutation_source,251,0.0039682539682539
+n >= 177 (>=70%),177,W-GPE,3429,3.21847770844925,0.349109231949893,1.02657404217572,0,0.0079365079365079,0.0119047619047619,not_evaluated_no_locked_grid_by_permutation_source,251,0.0039682539682539
+n >= 177 (>=70%),177,<z>,3429,0.0,0.0,0.0,0,1.0,1.0,not_evaluated_no_locked_grid_by_permutation_source,251,0.0039682539682539

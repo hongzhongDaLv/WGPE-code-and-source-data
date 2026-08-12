@@ -1,0 +1,37 @@
+target,region,comparison,fold,test_start,test_end,n_test_months,terminal_2024_delta_r2,included_in_pooled_1979_2024_oof,included_in_equal_duration_interval,role
+Precipitation,Global,M1-M0,10,2024-01-01,2024-12-01,12,0.0152127603192047,True,False,terminal one-year holdout
+Precipitation,Global,M2-M0,10,2024-01-01,2024-12-01,12,0.0164842709602266,True,False,terminal one-year holdout
+Precipitation,Global,M3-M0,10,2024-01-01,2024-12-01,12,0.0247001589786022,True,False,terminal one-year holdout
+Precipitation,N high latitude,M1-M0,10,2024-01-01,2024-12-01,12,0.0314447506415932,True,False,terminal one-year holdout
+Precipitation,N high latitude,M2-M0,10,2024-01-01,2024-12-01,12,0.0263773608168098,True,False,terminal one-year holdout
+Precipitation,N high latitude,M3-M0,10,2024-01-01,2024-12-01,12,0.0395935116088749,True,False,terminal one-year holdout
+Precipitation,N temperate,M1-M0,10,2024-01-01,2024-12-01,12,0.0291557948638524,True,False,terminal one-year holdout
+Precipitation,N temperate,M2-M0,10,2024-01-01,2024-12-01,12,0.0097887108992757,True,False,terminal one-year holdout
+Precipitation,N temperate,M3-M0,10,2024-01-01,2024-12-01,12,0.0317411973159057,True,False,terminal one-year holdout
+Precipitation,Tropics,M1-M0,10,2024-01-01,2024-12-01,12,0.0019224059310729,True,False,terminal one-year holdout
+Precipitation,Tropics,M2-M0,10,2024-01-01,2024-12-01,12,0.0241043843232564,True,False,terminal one-year holdout
+Precipitation,Tropics,M3-M0,10,2024-01-01,2024-12-01,12,0.0242487574432448,True,False,terminal one-year holdout
+Precipitation,S temperate,M1-M0,10,2024-01-01,2024-12-01,12,0.0111171603354149,True,False,terminal one-year holdout
+Precipitation,S temperate,M2-M0,10,2024-01-01,2024-12-01,12,0.0028131287955067,True,False,terminal one-year holdout
+Precipitation,S temperate,M3-M0,10,2024-01-01,2024-12-01,12,0.0109540926381259,True,False,terminal one-year holdout
+Precipitation,S high latitude,M1-M0,10,2024-01-01,2024-12-01,12,0.0652639621695666,True,False,terminal one-year holdout
+Precipitation,S high latitude,M2-M0,10,2024-01-01,2024-12-01,12,0.0606220593365853,True,False,terminal one-year holdout
+Precipitation,S high latitude,M3-M0,10,2024-01-01,2024-12-01,12,0.0560697275128477,True,False,terminal one-year holdout
+Continuous Nino3.4,Global,M1-M0,10,2024-01-01,2024-12-01,12,0.043526117661197,True,False,terminal one-year holdout
+Continuous Nino3.4,Global,M2-M0,10,2024-01-01,2024-12-01,12,0.043947034822413,True,False,terminal one-year holdout
+Continuous Nino3.4,Global,M3-M0,10,2024-01-01,2024-12-01,12,0.0299840110424528,True,False,terminal one-year holdout
+Continuous Nino3.4,N high latitude,M1-M0,10,2024-01-01,2024-12-01,12,-0.0007293122519876,True,False,terminal one-year holdout
+Continuous Nino3.4,N high latitude,M2-M0,10,2024-01-01,2024-12-01,12,-0.0093072133281144,True,False,terminal one-year holdout
+Continuous Nino3.4,N high latitude,M3-M0,10,2024-01-01,2024-12-01,12,-0.0082142346727569,True,False,terminal one-year holdout
+Continuous Nino3.4,N temperate,M1-M0,10,2024-01-01,2024-12-01,12,0.030795230144271,True,False,terminal one-year holdout
+Continuous Nino3.4,N temperate,M2-M0,10,2024-01-01,2024-12-01,12,0.0283463804224178,True,False,terminal one-year holdout
+Continuous Nino3.4,N temperate,M3-M0,10,2024-01-01,2024-12-01,12,0.006181528409335,True,False,terminal one-year holdout
+Continuous Nino3.4,Tropics,M1-M0,10,2024-01-01,2024-12-01,12,0.0660500452452825,True,False,terminal one-year holdout
+Continuous Nino3.4,Tropics,M2-M0,10,2024-01-01,2024-12-01,12,0.071930035578391,True,False,terminal one-year holdout
+Continuous Nino3.4,Tropics,M3-M0,10,2024-01-01,2024-12-01,12,0.0428633791782456,True,False,terminal one-year holdout
+Continuous Nino3.4,S temperate,M1-M0,10,2024-01-01,2024-12-01,12,0.0343449411528436,True,False,terminal one-year holdout
+Continuous Nino3.4,S temperate,M2-M0,10,2024-01-01,2024-12-01,12,0.0307765747734532,True,False,terminal one-year holdout
+Continuous Nino3.4,S temperate,M3-M0,10,2024-01-01,2024-12-01,12,0.0447015585419532,True,False,terminal one-year holdout
+Continuous Nino3.4,S high latitude,M1-M0,10,2024-01-01,2024-12-01,12,0.0081026685868099,True,False,terminal one-year holdout
+Continuous Nino3.4,S high latitude,M2-M0,10,2024-01-01,2024-12-01,12,0.0078907808056507,True,False,terminal one-year holdout
+Continuous Nino3.4,S high latitude,M3-M0,10,2024-01-01,2024-12-01,12,0.001085438894436,True,False,terminal one-year holdout

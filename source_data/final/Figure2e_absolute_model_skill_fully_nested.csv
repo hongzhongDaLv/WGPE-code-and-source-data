@@ -1,0 +1,49 @@
+target,region,model,n_grid,weighted_mean_gridcell_oof_r2,weighted_median_gridcell_oof_r2,mean_gridcell_rmse,estimand
+Precipitation,Global,M0,65160,0.235042056600477,0.217596313194057,0.001194693363054,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,Global,M1,65160,0.255188603560329,0.244563945292414,0.0011827437035471,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,Global,M2,65160,0.261182134848517,0.245696768281014,0.0011717423117441,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,Global,M3,65160,0.267443871340304,0.254481064602526,0.0011640760157932,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,N high latitude,M0,8640,0.086956666780863,0.0764506403675547,0.0004910634788935,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,N high latitude,M1,8640,0.130424062187019,0.119451534027602,0.0004789447146218,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,N high latitude,M2,8640,0.128088928205064,0.115354759729543,0.0004791283817454,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,N high latitude,M3,8640,0.135880835451079,0.12476051621323,0.0004786780394043,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,N temperate,M0,15480,0.153332046559233,0.134553970418338,0.0010601362962251,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,N temperate,M1,15480,0.182597820708738,0.167559951651786,0.0010410557623393,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,N temperate,M2,15480,0.182856360240114,0.16657512226228,0.0010406150692991,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,N temperate,M3,15480,0.18850230589006,0.173065418419326,0.0010359322408043,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,Tropics,M0,16920,0.340430403309793,0.343942365122129,0.0016051312160805,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,Tropics,M1,16920,0.350278777421233,0.352805464182655,0.0015959709395517,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,Tropics,M2,16920,0.364992771533207,0.361517928232366,0.0015688794624545,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,Tropics,M3,16920,0.37663770897316,0.385523741465775,0.0015528786408736,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,S temperate,M0,15480,0.168107377082813,0.156767451057385,0.0009483251873108,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,S temperate,M1,15480,0.186349202360622,0.185394538832033,0.0009391533268317,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,S temperate,M2,15480,0.186556149033262,0.183910212201954,0.0009389335193778,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,S temperate,M3,15480,0.186887219160022,0.185528083675866,0.0009385334302847,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,S high latitude,M0,8640,0.298656088279652,0.297324829790541,0.0003315828176709,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,S high latitude,M1,8640,0.349442176550541,0.349480358164337,0.000320184873593,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,S high latitude,M2,8640,0.351909474276318,0.35400318878584,0.0003193474382301,cos(latitude)-weighted mean paired grid-cell OOF R2
+Precipitation,S high latitude,M3,8640,0.345784926078103,0.34632807349355,0.0003205595181894,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,Global,M0,65160,0.0395103242616555,0.0038485615990362,0.880986448819313,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,Global,M1,65160,0.0585881557136869,0.0195641531600095,0.871828971591985,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,Global,M2,65160,0.0582180661838901,0.0191838241254899,0.871962806592212,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,Global,M3,65160,0.055147472062521,0.0166683096634068,0.873483050749142,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,N high latitude,M0,8640,-0.0030822086472552,-0.0029791418983335,0.901719517300341,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,N high latitude,M1,8640,-0.0065837711843494,-0.0072514526602032,0.903290479898437,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,N high latitude,M2,8640,-0.0081338157542925,-0.0087529838537645,0.903984341594626,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,N high latitude,M3,8640,-0.0051481094830513,-0.0054389396540603,0.90264698952809,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,N temperate,M0,15480,0.0068636095136245,0.0009962040965484,0.897209237276693,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,N temperate,M1,15480,0.0150022840319944,0.0061908465797774,0.893481115933553,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,N temperate,M2,15480,0.0130996665417456,0.004062462221106,0.894340114799201,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,N temperate,M3,15480,0.011025960476466,0.0028955084358425,0.895303889180137,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,Tropics,M0,16920,0.0826372247186593,0.0254377540968331,0.859405174827135,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,Tropics,M1,16920,0.111315627019049,0.0646325897813975,0.845341600574214,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,Tropics,M2,16920,0.112883442915272,0.0675561145509905,0.844554227889715,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,Tropics,M3,16920,0.105991640322172,0.0561655208078281,0.847957809950065,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,S temperate,M0,15480,0.0189138453210576,0.0027814445517769,0.891570878753768,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,S temperate,M1,15480,0.0408208895503305,0.0208436625571421,0.881354717428085,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,S temperate,M2,15480,0.039574116325171,0.0197355828637926,0.881913662793912,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,S temperate,M3,15480,0.0394900034988651,0.0193164289913729,0.881989415809262,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,S high latitude,M0,8640,0.0001132554984648,-0.0049366114876572,0.900259116709591,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,S high latitude,M1,8640,0.000119249767467,-0.0061158742965379,0.900242912822732,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,S high latitude,M2,8640,-0.0026504798412159,-0.0081408385339312,0.901486908488495,cos(latitude)-weighted mean paired grid-cell OOF R2
+Continuous Nino3.4,S high latitude,M3,8640,7.73970725822512e-05,-0.0059438305546022,0.900257655501798,cos(latitude)-weighted mean paired grid-cell OOF R2

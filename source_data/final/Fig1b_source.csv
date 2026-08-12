@@ -1,0 +1,8 @@
+panel_id,result_id,metric,target,predictor,model,domain,region,latitude_bin,estimate,lower95,upper95,p,q,significance_class,n_grid,source_sheet,source_file
+Fig1b,TOP100R000002,wgpe_trend_J_m2_yr,,,,all-valid common TOP100 grid,Global,,672.055360999501,,,,,,65160.0,,RESULT_REGISTRY.csv
+Fig1b,TOP100R000031,actual,,,,all-valid common TOP100 grid,Global,,672.055360999501,,,,,,65160.0,,RESULT_REGISTRY.csv
+Fig1b,TOP100R000032,IWV,,,,all-valid common TOP100 grid,Global,,398.816630790153,,,,,,65160.0,,RESULT_REGISTRY.csv
+Fig1b,TOP100R000033,z,,,,all-valid common TOP100 grid,Global,,255.255589986277,,,,,,65160.0,,RESULT_REGISTRY.csv
+Fig1b,TOP100R000034,interaction,,,,all-valid common TOP100 grid,Global,,17.983140284728,,,,,,65160.0,,RESULT_REGISTRY.csv
+Fig1b,TOP100R000035,sum_channels,,,,all-valid common TOP100 grid,Global,,672.055361061158,,,,,,65160.0,,RESULT_REGISTRY.csv
+Fig1b,TOP100R000036,residual,,,,all-valid common TOP100 grid,Global,,-6.16563999945231e-08,,,,,,65160.0,,RESULT_REGISTRY.csv

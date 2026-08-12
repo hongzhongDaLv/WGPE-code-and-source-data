@@ -1,0 +1,11 @@
+language,package,version,status,environment
+R,cowplot,1.2.0,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,data.table,NA,not_available_in_current_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,digest,0.6.39,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,ggplot2,4.0.2,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,MASS,7.3.65,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,ncdf4,1.24,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,Rcpp,1.1.1,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,RcppArmadillo,15.2.3.1,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,sandwich,3.1.1,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library
+R,scales,1.4.0,available_in_archival_R_environment,<R_LIBRARY>;C:/Program Files/R/R-4.5.2/library

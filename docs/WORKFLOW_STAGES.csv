@@ -1,0 +1,8 @@
+﻿stage_id,description,code_directory
+01,Input audit and coordinate/grid checks,code/01_preprocessing
+02,ERA5 TOP100 moisture diagnostics,code/02_moisture_diagnostics
+03,"Trends, exact vertical decomposition and uncertainty",code/03_trends_and_decomposition
+04,"Hydroclimate, wet/dry, ENSO and OOF information-gain analyses",code/04_hydroclimate
+05,"Ecology partial correlations, coverage and temporal analyses",code/05_ecology
+06,"JRA-55, RHARM and coordinate validation",code/06_validation
+07,"Figures, supplementary outputs, registry and tables",code/07_figures_and_tables

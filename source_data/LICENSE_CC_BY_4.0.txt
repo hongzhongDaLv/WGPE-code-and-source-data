@@ -1,0 +1,3 @@
+Author-generated Source Data in this directory are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+This licence does not apply to third-party source products. See ../data/THIRD_PARTY_DATA_NOTICE.md and SOURCE_DATA_INDEX.csv.
