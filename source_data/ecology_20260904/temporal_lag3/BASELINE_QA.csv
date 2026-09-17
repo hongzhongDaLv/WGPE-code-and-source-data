@@ -1,0 +1,3 @@
+"target","max_p_forward_diff","max_p_reverse_diff","n_forward_mismatch","n_reverse_mismatch","class_mismatch"
+"GPP",8.38218383591993e-14,7.53841433720481e-14,0,0,0
+"LAI",5.00266494896096e-13,7.22866211333439e-13,0,0,0
