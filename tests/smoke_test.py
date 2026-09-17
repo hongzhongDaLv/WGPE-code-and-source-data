@@ -27,7 +27,7 @@ for r in p:
     v=num(r["weighted_mean_delta_r2"]); ref=num(rr["estimate"])
     out.append({"check":f"Figure2e_Precipitation_{r['comparison']}","value":v,"reference":ref,"tolerance":"1e-10 relative","status":"PASS" if close(v,ref) else "FAIL"})
 eco=rows("Ecology_field_significance_final.csv"); ev=num(next(r for r in eco if r["target"]=="GPP" and r["predictor"]=="W-GPE")["observed_mean_partial_r"]); er=num(registry["FINAL_ECO_01"]["estimate"])
-out.append({"check":"GPP_WGPE_mean_partial_r","value":ev,"reference":er,"tolerance":"1e-10 relative","status":"PASS" if close(ev,er) else "FAIL"})
+out.append({"check":"historical_six_control_GPP_WGPE_mean_partial_r","value":ev,"reference":er,"tolerance":"1e-10 relative","status":"PASS" if close(ev,er) else "FAIL"})
 
 with (OUT/"SMOKE_TEST_RESULTS.csv").open("w",encoding="utf-8-sig",newline="") as f:
     wri=csv.DictWriter(f,fieldnames=list(out[0])); wri.writeheader(); wri.writerows(out)

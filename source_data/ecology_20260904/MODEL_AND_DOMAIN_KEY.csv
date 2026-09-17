@@ -1,0 +1,5 @@
+analysis_id,model_label,controls,domain,minimum_sample,reported_denominator,uncertainty
+ECO5_CONCURRENT,Without_VPD,precipitation+T2m+SSRD+RZSM+CO2,persistent vegetation with six-control complete-case months held fixed,36 months,all valid cells weighted by cosine latitude,1000 resamples of 10-degree spatial blocks
+ECO6_PAIRED,With_VPD,precipitation+T2m+SSRD+RZSM+CO2+VPD,same paired domain as ECO5_CONCURRENT,36 months,all valid cells weighted by cosine latitude,1000 resamples of 10-degree spatial blocks
+ECO5_LAG3,Without_VPD,lagged precipitation+T2m+SSRD+RZSM+CO2 and target autoregression,persistent vegetation with six-control valid lag windows held fixed; both directions valid,48 lag windows,grid_pct for plotted f panel; area_pct separately provided,no new classification CI
+ECO6_LAG3_PAIRED,With_VPD,lagged precipitation+T2m+SSRD+RZSM+CO2+VPD and target autoregression,same paired domain as ECO5_LAG3,48 lag windows,grid_pct and area_pct separately provided,no new classification CI
